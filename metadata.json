@@ -1,0 +1,6 @@
+{
+  "name": "StoryFlow | AI Storyboard",
+  "description": "Upload a script and automatically generate a sequence of storyboard images using Gemini models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
